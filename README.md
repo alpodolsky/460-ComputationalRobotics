@@ -1,4 +1,4 @@
-# 460-ComputationalRobotics
+# Projects from Rutgers CS214
 
 # MP1:(PDF inside the MP1 folder has more detailed project descriptions/assignment details)
 # Problem1:(multilaterate)
